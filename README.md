@@ -40,7 +40,7 @@
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
- ✌️ &emsp; My current cyber security interests are cloud security and penetration testing <br/><br/>
+ ✌️ &emsp; Current Cyber Security Interests : Cloud Security & Penetration Testing <br/><br/>
  ❤️ &emsp; On-going project : N/A <br/><br/>
  📧 &emsp; Reach me anytime: junmingngan@hotmail.com <br/><br/>
 
