@@ -1,39 +1,35 @@
 <!-- Introduction  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://alsiam.com">Al Siam</a></b>
+                <b><a target="_blank" href="https://alsiam.com">Jun Ming</a></b>
         </samp>
 </h3>
 
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Al+Siam">「 Google Me 」</a>
     <br>
-    「 I am a full stack web application developer from <b>Bangladesh</b> 」
+    「 I am a cyber security student with software engineering background </b> 」
     <br>
     <br>
   </samp>
 </p>
 
 <p align="center">
- <a href="https://alsiam.com" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
- </a>
- <a href="https://linkedin.com/in/al-siam" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
- </a>
- <!-- <a href="https://dev.to/alsiam" target="_blank">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="alsiam" />
+<!--  <a href="" target="blank">
+  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" />
  </a> -->
- <a href="https://twitter.com/alsiam_dev" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+ <a href="https://www.linkedin.com/in/ngan-jun-ming-1829b0254/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
  </a>
- <a href="https://instagram.com/alsiam_dev" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
+<!--  <a href="https://twitter.com/alsiam_dev" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+ </a> -->
+ <a href="https://www.instagram.com/juz_junming/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white"  />
  </a> 
- <a href="https://facebook.com/alsiam.world" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="alsiam"  />
+ <a href="https://www.facebook.com/junmingngan/" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" />
   </a> 
 </p>
 <br />
@@ -44,10 +40,9 @@
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
+ ✌️ &emsp; My current cyber security interests are cloud security and penetration testing <br/><br/>
+ ❤️ &emsp; On-going project : N/A <br/><br/>
  📧 &emsp; Reach me anytime: alsiam.dev@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/alsiam/alsiam/issues)
 
 </p>
 
@@ -56,15 +51,13 @@
 <br/>
 
 ## Use To Code
-
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
-![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
-![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![SQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
