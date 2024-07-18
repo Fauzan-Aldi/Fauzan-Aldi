@@ -9,7 +9,7 @@
 <p align="center"> 
   <samp>
     <br>
-    「 I am a cyber security student with software engineering background </b> 」
+    「 I am a cyber security student and i do penetration testing </b> 」
     <br>
     <br>
   </samp>
