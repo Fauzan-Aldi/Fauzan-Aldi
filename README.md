@@ -1,7 +1,7 @@
 <!-- Introduction  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://github.com/JunMing27">Fauzan Aldi</a></b>
+                <b><a target="_blank" href="https://github.com/Fauzan-Aldi">Fauzan Aldi</a></b>
         </samp>
 </h3>
 
@@ -9,7 +9,7 @@
 <p align="center"> 
   <samp>
     <br>
-    「 I am a cyber security student and i do penetration testing </b> 」
+    「 I am a Cyber Security Enthusiast and i do penetration testing </b> 」
     <br>
     <br>
   </samp>
