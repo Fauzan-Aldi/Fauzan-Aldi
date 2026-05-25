@@ -63,8 +63,6 @@
 <hr/>
 <br/>
 
-## 💀 Daily Quote
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/Fauzan-Aldi/Fauzan-Aldi/output/github-contribution-grid-snake-dark.svg" />
 </p>
