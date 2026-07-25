@@ -48,16 +48,6 @@
 
 # Certifications & Achievements
 
-<p align="left">
-  🏆 CPTS (Certified Penetration Testing Specialist) <br/>
-  🏆 CRTA (Certified Red Team Analyst) <br/>
-  🏆 CAPEN (Certified AppSec Penetration Tester) <br/>
-  🏆 C-AI/MLPEN (AI & Machine Learning Penetration Tester) <br/>
-  🏆 CWEE • CWSE • CAPT <br/>
-  🏆 MTCNA • MTCRE • CCNA <br/>
-  🛰️ Hall of Fame : NASA
-</p>
-
 <br/>
 
 ## Security Tools & Technologies
