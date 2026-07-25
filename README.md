@@ -13,9 +13,7 @@
     <br>
     「 CTF Player | Backend Developer | Informatics Student 」
     <br>
-    「 CPTS • CRTA • CAPEN • C-AI/MLPEN • CWEE • CWSE • CAPT 」
-    <br>
-    「 MTCNA • MTCRE • CCNA • Hall of Fame : NASA 」
+  
     <br><br>
   </samp>
 </p>
