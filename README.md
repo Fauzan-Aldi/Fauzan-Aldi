@@ -13,8 +13,6 @@
     <br>
     「 CTF Player | Backend Developer | Informatics Student 」
     <br>
-  
-    <br><br>
   </samp>
 </p>
 
